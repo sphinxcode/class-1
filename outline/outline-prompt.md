@@ -1,0 +1,1 @@
+Based on the context/ folder, generated a detailed outline of the project and ask questions per category to make it more concrete and specific to prepare for development

@@ -1,0 +1,1 @@
+i want to make a website for a school that will help students learn ai coding

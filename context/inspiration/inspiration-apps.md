@@ -1,0 +1,10 @@
+1. Skool
+2. Kajabi
+3. Thinkific
+4. Teachable
+5. Podia
+6. Gumroad
+7. ConvertKit
+8. Mailchimp
+9. Sendinblue
+10. ActiveCampaign

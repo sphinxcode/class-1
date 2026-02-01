@@ -1,0 +1,1 @@
+I want to start creating epics and stories based on context/ and outline/ folder. Help me generate a living plan for the project that keeps updating as we go.
